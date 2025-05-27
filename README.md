@@ -3,7 +3,7 @@
 </p>
 <p align="center"><h1 align="center">VOICEASSISTANT</h1></p>
 <p align="center">
-	*A project I can be proud of*
+	<!-- *A project I can be proud of* -->
 </p>
 <p align="center">
 	<!-- <img src="https://img.shields.io/github/license/tillerhuynh/VoiceAssistant?style=default&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license"> -->
@@ -35,6 +35,7 @@
 ##  Overview
 
 This is a simple voice assistant project built using ElevenLabs' conversational AI tools. It's set up to act like a friendly personal assistant that can talk to you, help you remember your schedule, and make your day a little smoother.
+
 What It Does
 
    - Talks to you in real-time using voice (not just text).
