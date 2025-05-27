@@ -20,16 +20,16 @@
 
 ##  Table of Contents
 
-- [ Overview](#-overview)
-- [ Project Structure](#-project-structure)
-  - [ Project Index](#-project-index)
-- [ Getting Started](#-getting-started)
-  - [ Prerequisites](#-prerequisites)
-  - [ Usage](#-usage)
-- [ Project Roadmap](#-project-roadmap)
-- [ Contributing](#-contributing)
-- [ License](#-license)
-- [ Acknowledgments](#-acknowledgments)
+- [ Overview](#overview)
+- [ Project Structure](#project-structure)
+  - [ Project Index](#project-index)
+- [ Getting Started](#getting-started)
+  - [ Prerequisites](#prerequisites)
+  - [ Usage](#usage)
+- [ Project Roadmap](#project-roadmap)
+- [ Contributing](#contributing)
+- [ License](#license)
+- [ Acknowledgments](#acknowledgments)
 ---
 
 ##  Overview
